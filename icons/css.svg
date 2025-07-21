@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 512 512">
+  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill: #0065f4;
+      }
+
+      .st2 {
+        fill: #004ce8;
+      }
+
+      .st3 {
+        fill: #ebebeb;
+      }
+    </style>
+  </defs>
+  <path id="polygon2989" class="st2" d="M437.37,100.62l-33.05,370.2-148.54,41.18-148.13-41.12L74.63,100.62h362.73Z"/>
+  <path id="polygon2991" class="st1" d="M376.03,447.25l28.24-316.35h-148.27v349.63l120.03-33.28Z"/>
+  <g>
+    <path id="polygon2993" class="st3" d="M150.31,268.22l4.07,45.41h101.62l19.53-22.7-19.53-22.7h-105.69Z"/>
+    <path id="polygon2995" class="st3" d="M256,176.3h-113.87l4.13,45.41h109.74l19.53-22.71-19.53-22.71Z"/>
+    <path id="polygon2997" class="st3" d="M256,433.4l19.53-24.08-19.53-23.17-.2.05-50.57-13.66-3.23-36.22h-45.58l6.36,71.3,93.02,25.82.21-.06Z"/>
+  </g>
+  <path id="path2999" class="st0" d="M160,0h55v23h-32v23h32v23h-55V0Z"/>
+  <path id="path3001" class="st0" d="M226,0h55v20h-32v4h32v46h-55v-21h32v-4h-32V0Z"/>
+  <path id="path3003" class="st0" d="M292,0h55v20h-32v4h32v46h-55v-21h32v-4h-32V0Z"/>
+  <path id="polygon3005" class="st0" d="M311.76,313.63l-5.27,58.89-50.65,13.67v47.24l93.09-25.8.68-7.67,10.67-119.55,1.11-12.19,8.2-91.91h-113.75v45.41h63.99l-4.13,46.5h-59.86v45.41h55.92Z"/>
+</svg>
